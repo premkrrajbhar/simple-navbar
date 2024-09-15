@@ -6,7 +6,7 @@
 
 ## Live Demo
 
-* You can check out the live demo of the project here [A Simple Navbar]()
+* You can check out the live demo of the project here [A Simple Navbar](https://premkrrajbhar.github.io/simple-navbar/)
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
